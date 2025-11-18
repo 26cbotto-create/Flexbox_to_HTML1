@@ -27,7 +27,7 @@ html{
 
 header{
     border-bottom: 1px dotted #bbbbbb;
-    width: 25rem;
+    width: 100%;
     margin-bottom: 4rem;
 }
 
@@ -159,7 +159,10 @@ nav a:hover {
     color: hotpink;
 }
 
-
+.banner {
+    display: flex;
+    flex-direction: row;;
+}
 
 
 
