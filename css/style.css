@@ -164,8 +164,14 @@ nav a:hover {
     flex-direction: row;;
 }
 
+.sec1 {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
 
-
-
+.sub1, .sub2 {
+    flex: 1;
+}
 
 /* Ayan helped me */
